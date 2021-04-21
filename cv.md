@@ -10,3 +10,11 @@
   Therefore, I want to successfully complete the course of JS Development and get into the Epam IT company.  
   I’m ready to devote myself to work, the main thing is to have the opportunity to develop.  
   I guarantee the fulfillment of all duties and conscientious attitude to the team.*  
+4. __Skills:__  
+  *Software & Tools: HTML, CSS, MS Office (MS Excel, MS Word, MS PowerPoint, MS Project), JS*  
+  *Languages: English, Russian*  
+5. __Code examples:__  
+    *There are some links of JS projects:  
+    [Fancy Weather](https://yuliagushcha.github.io/weather/fancy-weather/dist/main/),  
+    [Piskel Clone](https://yuliagushcha.github.io/piskel/simple-piskel-clone/dist/main/landingPage.html),  
+    [Image API](https://yuliagushcha.github.io/image-api/codejam-image-api/src/index.html)*
